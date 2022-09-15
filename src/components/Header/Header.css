@@ -1,0 +1,23 @@
+header {
+  background-color: var(--backgroundColor);
+  min-height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  background-image: url(/public/resources/images/backgroundHeader.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+
+header > h1 {
+  font-size: 6rem;
+}
+
+header > i {
+  font-size: 5rem;
+}

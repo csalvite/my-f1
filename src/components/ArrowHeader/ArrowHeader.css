@@ -1,0 +1,10 @@
+i.angle-down {
+  position: absolute;
+  bottom: 20px;
+  cursor: pointer;
+  transition: transform 0.5s;
+}
+
+i.angle-down:hover {
+  transform: scale(1.5);
+}
