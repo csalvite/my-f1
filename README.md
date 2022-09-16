@@ -1,3 +1,7 @@
+# My F1
+This is an app made by Cesar Alvite, Web Developer using React.
+Application idea is to bring a little wiki about Formula 1 data, circuits, drivers, championchips...
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
